@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @n1ghtBl00d
+- 👀 I’m interested in Robotics, Cybersecurity, and Programming
+- 🎓 I'm currently studying for a Bachelor's degree in Computer Science
